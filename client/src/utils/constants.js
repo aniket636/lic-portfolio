@@ -1,8 +1,8 @@
 // Advisor identity & contact details — replace with real values before deploying.
 export const ADVISOR = {
-  name: 'Anil Sharma',
+  name: 'Aniket Sharma',
   designation: 'LIC Senior Insurance Advisor',
-  licCode: 'LIC Agent Code: 123456789',
+  licCode: 'LIC Agent Code: 16745698',
   phone: '+919602338811',
   displayPhone: '+91 9602338811',
   email: 'aniluma217@gmail.com',
