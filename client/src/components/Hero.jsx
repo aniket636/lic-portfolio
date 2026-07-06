@@ -6,9 +6,9 @@ import { ADVISOR } from '../utils/constants';
 import advisorImage from "../assets/images/advisor.png";
 
 const stats = [
-  { label: 'Policies Sold', value: 1200, suffix: '+' },
-  { label: 'Happy Clients', value: 950, suffix: '+' },
-  { label: 'Years Experience', value: 14, suffix: '' },
+  { label: 'Policies Sold', value: 400, suffix: '+' },
+  { label: 'Happy Clients', value: 400, suffix: '+' },
+  { label: 'Years Experience', value: 5, suffix: '' },
 ];
 
 function Stat({ value, suffix, label }) {
