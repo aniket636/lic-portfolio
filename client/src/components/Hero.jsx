@@ -3,6 +3,7 @@ import { FiShield, FiCalendar, FiTrendingUp } from 'react-icons/fi';
 import { FaWhatsapp, FaUmbrella, FaHeartbeat, FaPiggyBank } from 'react-icons/fa';
 import { useCountUp } from '../hooks/useCountUp';
 import { ADVISOR } from '../utils/constants';
+import advisorImage from "../assets/images/advisor.png";
 
 const stats = [
   { label: 'Policies Sold', value: 1200, suffix: '+' },
@@ -100,9 +101,12 @@ export default function Hero() {
         >
           <div className="relative">
             <div className="absolute -inset-4 rounded-[2.5rem] bg-white/10 backdrop-blur-md border border-white/20" />
-            <div className="relative h-80 w-64 md:h-96 md:w-80 rounded-[2rem] bg-slate-200/90 flex items-center justify-center overflow-hidden shadow-2xl">
-              {/* Replace this with a real advisor photo: /src/assets/advisor.jpg */}
-              <span className="text-slate-400 font-medium text-sm">Advisor Photo</span>
+            <div className="relative h-80 w-64 md:h-96 md:w-80 rounded-[2rem] overflow-hidden shadow-2xl">
+            <img
+            src={advisorImage}
+            alt="Aniket Sharma"
+            className="w-full h-full object-cover"
+            />
             </div>
             <div className="absolute -bottom-6 -left-6 glass rounded-2xl px-5 py-4 shadow-card flex items-center gap-3">
               <FiCalendar className="text-primary" size={20} />
