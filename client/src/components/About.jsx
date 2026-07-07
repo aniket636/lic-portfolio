@@ -3,10 +3,10 @@ import { FiTarget, FiEye, FiCheckCircle } from 'react-icons/fi';
 import { useCountUp } from '../hooks/useCountUp';
 
 const statCards = [
-  { label: 'Policies Sold', value: 1200, suffix: '+' },
-  { label: 'Happy Clients', value: 950, suffix: '+' },
-  { label: 'Claims Assisted', value: 180, suffix: '+' },
-  { label: 'Years of Experience', value: 14, suffix: '' },
+  { label: 'Policies Sold', value: 400, suffix: '+' },
+  { label: 'Happy Clients', value: 400, suffix: '+' },
+  { label: 'Claims Assisted', value: 400, suffix: '+' },
+  { label: 'Years of Experience', value: 5, suffix: '' },
 ];
 
 const whyChooseMe = [
