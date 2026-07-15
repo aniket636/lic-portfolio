@@ -33,7 +33,7 @@ export default function FAQ() {
       <div className="max-w-3xl mx-auto">
         <div className="text-center mb-14">
           <span className="section-eyebrow">FAQ</span>
-          <h2 className="section-title">Frequently asked questions</h2>
+          <h2 className="section-title">Frequently Asked Questions</h2>
         </div>
 
         <div className="space-y-4">

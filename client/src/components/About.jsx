@@ -40,7 +40,7 @@ export default function About() {
           transition={{ duration: 0.6 }}
         >
           <span className="section-eyebrow">About Me</span>
-          <h2 className="section-title mb-6">A partner in every life stage, not just a policy sale</h2>
+          <h2 className="section-title mb-6">About Aniket Sharma</h2>
           <p className="text-ink/70 dark:text-slate-300 leading-relaxed mb-6">
             With over a decade in the insurance industry, I help individuals and families in Rajasthan
             plan for life&rsquo;s uncertainties with the right mix of protection, savings and investment.

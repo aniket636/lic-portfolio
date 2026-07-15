@@ -33,7 +33,7 @@ export default function Testimonials() {
     <section id="testimonials" className="section bg-white dark:bg-navy">
       <div className="max-w-3xl mx-auto text-center">
         <span className="section-eyebrow">Client Stories</span>
-        <h2 className="section-title mb-12">What families say about working with me</h2>
+        <h2 className="section-title mb-12">Customer Testimonials</h2>
 
         <div className="relative min-h-[220px]">
           <AnimatePresence mode="wait">

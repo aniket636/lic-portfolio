@@ -31,7 +31,7 @@ export default function Services() {
       <div className="max-w-7xl mx-auto">
         <div className="text-center max-w-2xl mx-auto mb-14">
           <span className="section-eyebrow">What I Offer</span>
-          <h2 className="section-title">Insurance & investment services tailored to you</h2>
+          <h2 className="section-title">LIC Insurance Services</h2>
         </div>
 
         <div className="grid sm:grid-cols-2 lg:grid-cols-3 xl:grid-cols-5 gap-6">

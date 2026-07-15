@@ -3,7 +3,7 @@ import { FiShield, FiCalendar, FiTrendingUp } from 'react-icons/fi';
 import { FaWhatsapp, FaUmbrella, FaHeartbeat, FaPiggyBank } from 'react-icons/fa';
 import { useCountUp } from '../hooks/useCountUp';
 import { ADVISOR } from '../utils/constants';
-import advisorImage from "../assets/images/advisor.webp";
+import advisorImage from "../assets/images/lic-advisor-aniket-sharma.webp";
 
 const stats = [
   { label: 'Policies Sold', value: 400, suffix: '+' },
@@ -60,7 +60,7 @@ export default function Hero() {
         >
           <span className="section-eyebrow !text-accent">Trusted LIC Insurance Advisor</span>
           <h1 className="font-display text-4xl md:text-5xl lg:text-6xl font-semibold text-white leading-[1.1]">
-            Secure Your Family&rsquo;s Future with Trusted LIC Solutions
+            Secure Your Family's Future with Trusted LIC Solutions
           </h1>
           <p className="mt-6 text-slate-100/90 text-base md:text-lg max-w-xl">
             Personalised life insurance, retirement, and investment guidance from {ADVISOR.name} —
@@ -74,6 +74,15 @@ export default function Hero() {
             </a>
             <a href="#calculator" className="btn-outline !text-white !border-white hover:!bg-white hover:!text-primary">
               <FiTrendingUp /> Calculate Premium
+            </a>
+            <a href="/services">
+            LIC Services
+            </a>
+            <a href="/calculator">
+            LIC Premium Calculator
+            </a>
+            <a href="/contact">
+            Contact LIC Advisor
             </a>
             <a
               href={`https://wa.me/${ADVISOR.whatsapp}?text=${message}`}

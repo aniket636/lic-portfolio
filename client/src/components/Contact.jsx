@@ -42,7 +42,7 @@ export default function Contact() {
       <div className="max-w-7xl mx-auto">
         <div className="text-center max-w-2xl mx-auto mb-14">
           <span className="section-eyebrow">Contact</span>
-          <h2 className="section-title">Let&rsquo;s plan your family&rsquo;s financial security</h2>
+          <h2 className="section-title">Contact Aniket Sharma</h2>
         </div>
 
         <div className="grid lg:grid-cols-2 gap-12">

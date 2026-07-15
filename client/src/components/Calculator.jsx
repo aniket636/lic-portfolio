@@ -49,7 +49,7 @@ export default function Calculator() {
       <div className="max-w-5xl mx-auto">
         <div className="text-center max-w-2xl mx-auto mb-14">
           <span className="section-eyebrow">Premium Calculator</span>
-          <h2 className="section-title">Estimate your premium in seconds</h2>
+          <h2 className="section-title">LIC Premium Calculator</h2>
           <p className="text-ink/60 dark:text-slate-400 mt-4 text-sm">
             This is an indicative estimate only. Actual premium depends on the chosen plan and underwriting.
           </p>

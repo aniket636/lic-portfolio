@@ -29,7 +29,7 @@ export default function LICPlans() {
       <div className="max-w-7xl mx-auto">
         <div className="text-center max-w-2xl mx-auto mb-14">
           <span className="section-eyebrow">LIC Plans</span>
-          <h2 className="section-title">Popular plans matched to your life goals</h2>
+          <h2 className="section-title">Best LIC Insurance Plans</h2>
         </div>
 
         {loading ? (

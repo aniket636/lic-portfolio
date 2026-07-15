@@ -27,7 +27,7 @@ export default function MutualFund() {
         >
           <span className="section-eyebrow !text-accent">LIC Mutual Fund</span>
           <h2 className="font-display text-3xl md:text-4xl font-semibold mb-5">
-            Grow your wealth alongside your protection
+            LIC Mutual Fund Investment
           </h2>
           <p className="text-slate-100/90 mb-6 leading-relaxed">
             Beyond insurance, I help clients build long-term wealth through SIPs and mutual funds —
