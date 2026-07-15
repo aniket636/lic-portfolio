@@ -3,7 +3,7 @@ import { FiShield, FiCalendar, FiTrendingUp } from 'react-icons/fi';
 import { FaWhatsapp, FaUmbrella, FaHeartbeat, FaPiggyBank } from 'react-icons/fa';
 import { useCountUp } from '../hooks/useCountUp';
 import { ADVISOR } from '../utils/constants';
-import advisorImage from "../assets/images/advisor.png";
+import advisorImage from "../assets/images/advisor.webp";
 
 const stats = [
   { label: 'Policies Sold', value: 400, suffix: '+' },

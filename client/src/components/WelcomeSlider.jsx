@@ -1,8 +1,8 @@
 import { useEffect, useState } from "react";
 
 const posters = [
-  "/posters/poster1.png",
-  "/posters/poster2.png",
+  "/posters/poster1.webp",
+  "/posters/poster2.webp",
 ];
 
 export default function WelcomeSlider() {
